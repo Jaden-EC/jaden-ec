@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jaden cambizaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaden cambizaca" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/jaden cambizaca](https://www.linkedin.com/in/jaden-cambizaca-96171b30b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaden cambizaca" height="30" width="40" /></a>
 <a href="https://instagram.com/jadencambizaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadencambizaca" height="30" width="40" /></a>
 </p>
 
